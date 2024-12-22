@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+nav {
+	padding: 10px;
+	background-color: turquoise;
+	text-align: center;
+	font-size: 15px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+#landing {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 30px;
+	background-color: slategray;
+	text-align: right;
+}
+
+h1 {
+	font-size: 60px;
+	font-style: "Garamond", Serif ;
+}
+
+#movies {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.card {
+	padding: 20px;
+	text-align: center;
+	display: inline-block;
+}
+
+.card-img {
+	height: 300px;
+	width: 300px;
+	border-radius: 10px;
+}
+
+footer {
+	text-align: center;
+	padding: 10px;
+	background-color: darkcyan;
+	color: white;
+}
+
